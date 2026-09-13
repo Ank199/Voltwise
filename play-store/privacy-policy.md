@@ -1,6 +1,6 @@
-﻿# Privacy Policy Draft for Voltwise
+﻿# Privacy Policy for Voltwise
 
-Effective date: [Add date]
+Effective date: September 13, 2026
 
 Voltwise respects your privacy. This Privacy Policy explains how Voltwise handles information when you use the app.
 
@@ -29,7 +29,7 @@ Voltwise is not designed specifically for children.
 You can clear recorded battery history in the app settings. You can also remove all local app data through Android system settings by clearing app storage or uninstalling the app.
 
 ## Contact
-For privacy questions, contact: [Add support email]
+For privacy questions, contact the support email listed on the Voltwise Google Play Store listing.
 
 ## Changes
 This policy may be updated when the app changes. The latest version should be available from the app listing or support page.
