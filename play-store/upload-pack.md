@@ -13,8 +13,9 @@
 ### Phone screenshots
 Upload at least two. Recommended order:
 1. play-store/assets/screenshots/01-command-center.png
-2. play-store/assets/screenshots/03-settings-alerts.png
-3. play-store/assets/screenshots/02-activity-graph.png
+2. play-store/assets/screenshots/04-live-power-monitor.png
+3. play-store/assets/screenshots/03-settings-alerts.png
+4. play-store/assets/screenshots/02-activity-graph.png
 
 Note: screenshots are captured from the connected 1080 x 2400 Android phone.
 
@@ -52,3 +53,4 @@ Current release bundle location:
 app/build/outputs/bundle/release/app-release.aab
 
 Before production upload, confirm Play App Signing/upload key setup in Play Console.
+
