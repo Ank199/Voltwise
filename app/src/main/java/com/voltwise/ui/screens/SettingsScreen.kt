@@ -130,7 +130,7 @@ fun SettingsScreen(viewModel: SettingsViewModel = viewModel()) {
             Spacer(Modifier.height(8.dp))
             OutlinedButton(onClick = { 
                 runCatching {
-                    context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com")))
+                    context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://raw.githubusercontent.com/Ank199/Voltwise/main/docs/privacy-policy.md")))
                 }
             }, modifier = Modifier.fillMaxWidth(), border = BorderStroke(1.dp, PanelBorder)) {
                 Icon(Icons.Rounded.OpenInNew, null, Modifier.size(16.dp)); Spacer(Modifier.width(8.dp)); Text("Open Online Privacy Policy URL", fontSize = 12.sp)
